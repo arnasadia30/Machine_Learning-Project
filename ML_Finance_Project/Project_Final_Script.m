@@ -1,6 +1,6 @@
 % Loading the dataset
 
-filename = "C:\Users\anura\OneDrive\Desktop\Machine Learning in Finance\Project\ML_Finance_Project\pivoted.xlsx";
+filename = "C:\Users\arna\OneDrive\Desktop\Machine Learning in Finance\Project\ML_Finance_Project\pivoted.xlsx";
 data = readtable(filename);
 
 %%
